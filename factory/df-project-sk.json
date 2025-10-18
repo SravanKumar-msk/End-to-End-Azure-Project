@@ -1,0 +1,9 @@
+{
+	"name": "df-project-sk",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9ebdf50f-b74e-475f-bef7-48b2bf2273f1",
+		"tenantId": "86b4f214-dfbb-487a-9250-99a8abdb97b4"
+	}
+}
