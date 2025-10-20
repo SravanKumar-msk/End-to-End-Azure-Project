@@ -350,7 +350,7 @@
 				}
 			},
 			{
-				"name": "Web2",
+				"name": "just to check",
 				"type": "WebActivity",
 				"dependsOn": [
 					{
